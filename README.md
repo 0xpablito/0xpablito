@@ -50,7 +50,3 @@ Ce lab est mon terrain d'expérimentation principal pour simuler des réseaux d'
 ![Français](https://img.shields.io/badge/Français-Natif-blue?style=flat-square)
 ![Anglais](https://img.shields.io/badge/Anglais-B2_Technique-orange?style=flat-square)
 ![Allemand](https://img.shields.io/badge/Allemand-Notions-yellow?style=flat-square)
-
-
-
-![Stats de mon GitHub](https://github-readme-stats.vercel.app/api?username=TON-PSEUDO-GITHUB&show_icons=true&theme=nord)
