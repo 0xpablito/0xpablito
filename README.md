@@ -26,7 +26,7 @@ Ce lab est mon terrain d'expérimentation principal pour simuler des réseaux d'
 * **Sécurité & IP :** NAT/PAT, ACLs étendues, SSHv2, DHCP Snooping.
 * **Systèmes :** Windows Server 2022 Core (AD DS, DNS), PowerShell.
 
-> 🔗 [Consulter le dépôt technique du Lab](TON_LIEN_VERS_LE_REPO_GNS3)
+> 🔗 [Consulter le dépôt technique du Lab]((https://github.com/0xpablito/Lab-2-GNS3))
 
 ---
 
