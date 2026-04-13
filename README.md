@@ -17,16 +17,12 @@ En reconversion vers le métier d’administrateur réseau, je développe mes co
 
 ---
 
-### 🏗️ Projet en cours : Lab-2-GNS3 
-**Implémentation d'une Infrastructure 3-Tier Virtualisée**
+### 🏗️ Projet en cours : Azure-Administrator-AZ104
+**Réalisation  des labs officiels Microsoft**
 
-Ce lab est mon terrain d'expérimentation principal pour simuler des réseaux d'entreprise réels (GNS3 + VMware).
+Au-delà de la validation théorique sur Microsoft Learn, j'ai choisi de réaliser l'intégralité des labs officiels AZ-104 pour ancrer mes compétences dans la réalité du terrain. Ce dépôt constitue la preuve de mon opérationnalité immédiate : il démontre ma capacité à configurer, sécuriser et dépanner des architectures Azure. Pour moi, une certification n'a de valeur que si elle est doublée d'une maîtrise technique concrète, prête à être déployée en entreprise.
 
-* **L2 / L3 :** VLANs, Trunks, EtherChannel (LACP), Spanning-Tree (PVST+), OSPF, HSRP.
-* **Sécurité & IP :** NAT/PAT, ACLs étendues, SSHv2, DHCP Snooping.
-* **Systèmes :** Windows Server 2022 Core (AD DS, DNS), PowerShell.
-
-> 🔗 [Consulter le dépôt technique du Lab](https://github.com/0xpablito/Lab-2-GNS3)
+> 🔗 [Consulter le dépôt technique du Lab](https://github.com/0xpablito/Azure-Administrator/tree/main)
 
 ---
 
