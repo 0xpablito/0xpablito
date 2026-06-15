@@ -9,7 +9,7 @@ En reconversion vers le métier d’administrateur réseau, je développe mes co
 ### 🎓 Certifications & Badges
 | Certification | État | Badge |
 | :--- | :--- | :--- |
-| **Cisco CCNA** | ✅ Obtenue | ![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue?style=flat-square&logo=cisco) |
+| ** CCNA** | ✅ Obtenue | ![CCNA](https://img.shields.io/badge/-CCNA-blue?style=flat-square&logo=) |
 | **Cisco CCST Networking** | ✅ Obtenue | ![CCST](https://img.shields.io/badge/Cisco-CCST-blue?style=flat-square&logo=cisco) |
 | **Fortinet NSE 2** | ✅ Obtenue | ![Fortinet](https://img.shields.io/badge/Fortinet-NSE_2-red?style=flat-square&logo=fortinet) |
 | **Linux Essentials** | ✅ Obtenue | ![Linux](https://img.shields.io/badge/LPI-Linux_Essentials-black?style=flat-square&logo=linux) |
@@ -29,6 +29,8 @@ En reconversion vers le métier d’administrateur réseau, je développe mes co
 * **Focus :** Troubleshooting avancé sur les flux ARP et la gestion des services d'annuaire en ligne de commande.
 > 🔗 [Consulter le dépôt](https://github.com/0xpablito/Lab-2-GNS3)
 
+---
+
 #### 🌐 Infrastructure L2/L3 — Segmentation & Redondance
 **Conception d'une infrastructure réseau complète de zéro (Préparation CCNA).**
 * **Objectif :** Valider la maîtrise des automatismes réseau et la capacité à diagnostiquer des erreurs de logique.
@@ -37,10 +39,15 @@ En reconversion vers le métier d’administrateur réseau, je développe mes co
 * **Méthode :** Approche pas à pas pour garantir une isolation stricte des flux (VLAN BlackHole, ACLs de management).
 > 🔗 [Consulter le dépôt](https://github.com/0xpablito/Labs-1-CCNA)
 
-#### ☁️ Azure-Administrator-AZ104
-**Réalisation  des labs officiels Microsoft**
+---
 
-Au-delà de la validation théorique sur Microsoft Learn, j'ai choisi de réaliser l'intégralité des labs officiels AZ-104 pour ancrer mes compétences dans la réalité du terrain. Ce dépôt constitue la preuve de mon opérationnalité immédiate : il démontre ma capacité à configurer, sécuriser et dépanner des architectures Azure. Pour moi, une certification n'a de valeur que si elle est doublée d'une maîtrise technique concrète, prête à être déployée en entreprise.
+#### ☁️ Administration Azure
+**Réalisation des labs officiels Microsoft & Cas pratiques réels**
+
+Pour ancrer mes compétences dans la réalité du terrain après le cursus Microsoft Learn AZ-104, j'ai choisi de lier l'apprentissage officiel à l'expérimentation concrète :
+
+* **Labs Officiels Microsoft** : Réalisation de l'intégralité du cursus AZ-104 pour maîtriser les standards de l'éditeur.
+* **Projets Personnels** : Conception et déploiement de cas d'usage sur-mesure pour tester mon autonomie face à des scénarios réels.
 
 > 🔗 [Consulter le dépôt](https://github.com/0xpablito/Azure-Administrator/tree/main)
 
@@ -51,7 +58,7 @@ Au-delà de la validation théorique sur Microsoft Learn, j'ai choisi de réalis
 * **Réseaux :** OSPF, HSRP, VLAN, STP, EtherChannel, ACL (Std/Ext), NAT/PAT, IPv4/IPv6.
 * **Systèmes & Cloud :** Windows Server (AD DS), PowerShell, Linux CLI, VMware, Azure (en cours).
 * **Support & Documentation :** Troubleshooting, diagnostic d’incidents, ticketing, rapports techniques.
-* **Outils :** GNS3, Wireshark, Packet Tracer, PuTTY, Notion, AnyDesk, Cisco Packet Tracer.
+* **Outils :** GNS3, Wireshark, Packet Tracer, PuTTY, Notion, AnyDesk, Ansible, Netmiko.
 
 ---
 
